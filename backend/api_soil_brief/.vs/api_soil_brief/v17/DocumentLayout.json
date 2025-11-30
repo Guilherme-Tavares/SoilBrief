@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Guilh\\Documents\\Ambiente\\dashboard-back-end\\api_soil_brief\\",
+  "WorkspaceRootPath": "C:\\ADS\\SoilBrief\\backend\\api_soil_brief\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A66D8E1D-8639-4583-B3E5-9B85123D3CC5}|api_soil_brief.csproj|c:\\users\\guilh\\documents\\ambiente\\dashboard-back-end\\api_soil_brief\\services\\chamadaesp32service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66D8E1D-8639-4583-B3E5-9B85123D3CC5}|api_soil_brief.csproj|c:\\ads\\soilbrief\\backend\\api_soil_brief\\controllers\\solocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66D8E1D-8639-4583-B3E5-9B85123D3CC5}|api_soil_brief.csproj|solutionrelative:controllers\\solocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D8E1D-8639-4583-B3E5-9B85123D3CC5}|api_soil_brief.csproj|c:\\ads\\soilbrief\\backend\\api_soil_brief\\services\\soloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66D8E1D-8639-4583-B3E5-9B85123D3CC5}|api_soil_brief.csproj|solutionrelative:services\\soloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D8E1D-8639-4583-B3E5-9B85123D3CC5}|api_soil_brief.csproj|c:\\ads\\soilbrief\\backend\\api_soil_brief\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66D8E1D-8639-4583-B3E5-9B85123D3CC5}|api_soil_brief.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D8E1D-8639-4583-B3E5-9B85123D3CC5}|api_soil_brief.csproj|c:\\ads\\soilbrief\\backend\\api_soil_brief\\services\\chamadaesp32service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66D8E1D-8639-4583-B3E5-9B85123D3CC5}|api_soil_brief.csproj|solutionrelative:services\\chamadaesp32service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -17,18 +29,53 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoloService.cs",
+              "DocumentMoniker": "C:\\ADS\\SoilBrief\\backend\\api_soil_brief\\Services\\SoloService.cs",
+              "RelativeDocumentMoniker": "Services\\SoloService.cs",
+              "ToolTip": "C:\\ADS\\SoilBrief\\backend\\api_soil_brief\\Services\\SoloService.cs",
+              "RelativeToolTip": "Services\\SoloService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:27:01.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SoloController.cs",
+              "DocumentMoniker": "C:\\ADS\\SoilBrief\\backend\\api_soil_brief\\Controllers\\SoloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SoloController.cs",
+              "ToolTip": "C:\\ADS\\SoilBrief\\backend\\api_soil_brief\\Controllers\\SoloController.cs",
+              "RelativeToolTip": "Controllers\\SoloController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:26:36.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ADS\\SoilBrief\\backend\\api_soil_brief\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ADS\\SoilBrief\\backend\\api_soil_brief\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:43:34.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ChamadaEsp32Service.cs",
-              "DocumentMoniker": "C:\\Users\\Guilh\\Documents\\Ambiente\\dashboard-back-end\\api_soil_brief\\Services\\ChamadaEsp32Service.cs",
+              "DocumentMoniker": "C:\\ADS\\SoilBrief\\backend\\api_soil_brief\\Services\\ChamadaEsp32Service.cs",
               "RelativeDocumentMoniker": "Services\\ChamadaEsp32Service.cs",
-              "ToolTip": "C:\\Users\\Guilh\\Documents\\Ambiente\\dashboard-back-end\\api_soil_brief\\Services\\ChamadaEsp32Service.cs",
+              "ToolTip": "C:\\ADS\\SoilBrief\\backend\\api_soil_brief\\Services\\ChamadaEsp32Service.cs",
               "RelativeToolTip": "Services\\ChamadaEsp32Service.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T07:01:31.956Z",
               "EditorCaption": ""

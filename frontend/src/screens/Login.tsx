@@ -197,9 +197,9 @@ export default function Login({ onLoginSuccess }: LoginScreenProps) {
         </View>
 
         {/* Forgot Password */}
-        <TouchableOpacity style={styles.forgotPassword} disabled={loading}>
+        {/* <TouchableOpacity style={styles.forgotPassword} disabled={loading}>
           <Text style={styles.forgotPasswordText}>Esqueceu a senha?</Text>
-        </TouchableOpacity>
+        </TouchableOpacity> */}
 
         {/* Login Button */}
         <TouchableOpacity
@@ -215,12 +215,12 @@ export default function Login({ onLoginSuccess }: LoginScreenProps) {
         </TouchableOpacity>
 
         {/* Register Link */}
-        <View style={styles.registerContainer}>
+        {/* <View style={styles.registerContainer}>
           <Text style={styles.registerText}>Não tem uma conta? </Text>
           <TouchableOpacity disabled={loading}>
             <Text style={styles.registerLink}>Cadastre-se</Text>
           </TouchableOpacity>
-        </View>
+        </View> */}
       </View>
 
       {/* Footer */}

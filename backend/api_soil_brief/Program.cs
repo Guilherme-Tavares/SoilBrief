@@ -26,7 +26,7 @@ builder.Services.AddCors(options =>
 // Registrar DbContext
 builder.Services.AddDbContext<DataBaseConfig>(options =>
     options.UseMySql(
-        "server=localhost;database=db_soil;user=root;password=root;",
+        "server=localhost;database=db_soil;user=root;password=root123;",
         new MySqlServerVersion(new Version(8, 0, 33))
     )
 );
