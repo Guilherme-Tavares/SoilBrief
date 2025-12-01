@@ -1,7 +1,5 @@
 # 🌱 Soil Brief
 
-**Soil Brief – Smart Soil Insights **
-
 Sistema inteligente de monitoramento de solo para agricultura de precisão, desenvolvido com IoT, React Native e ASP.NET Core.
 
 ---
@@ -213,18 +211,6 @@ O schema do banco inclui as seguintes tabelas principais:
 - **historico** - Registros de medições
 
 **Scripts SQL disponíveis em:** `backend/soil_database/`
-
----
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-## 👥 Equipe
-
-Desenvolvido como projeto acadêmico para o curso de Análise e Desenvolvimento de Sistemas.
 
 ---
 
